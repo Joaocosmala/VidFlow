@@ -1,4 +1,5 @@
-###VidFlow
+##VidFlow
+
 ##Estudos de consumo de API com JavaScript construindo o VidFlow - Plataforma de Videos
 
 ##GIF demonstrativo da aplicação
